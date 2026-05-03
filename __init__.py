@@ -1,1 +1,1 @@
-# Initialize extractor module
+# Initialize schemas module
