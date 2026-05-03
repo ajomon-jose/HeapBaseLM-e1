@@ -1,1 +1,1 @@
-# Initialize app module
+# Initialize extractor module
